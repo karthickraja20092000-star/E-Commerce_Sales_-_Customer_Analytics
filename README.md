@@ -49,6 +49,7 @@ Include:
 •	Bottom 10 Products
 •	Quantity Sold
 
+  <a href ="https://github.com/karthickraja20092000-star/E-Commerce_Sales_-_Customer_Analytics/blob/main/Screenshot%20product-analysis.png"> product_analysis</a>
 ________________________________________
 Page 3 — Customer Analysis
 Include:
