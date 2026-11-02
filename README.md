@@ -11,9 +11,10 @@ Management wants a Power BI dashboard to understand:
 •	Delivery performance
 Your job is to clean the data, create a data model, write DAX measures, and build an interactive dashboard.
 
-#Data Model
-##Create relationships:
+Data Model  relationships:
   <a href ="https://github.com/karthickraja20092000-star/E-Commerce_Sales_-_Customer_Analytics/blob/main/Screenshot%202026-11-02%20123356.png"> relationship </a>
+
+
 📊 Dashboard Pages
 Don't put everything on one page.
 Page 1 — Executive Dashboard
@@ -70,4 +71,4 @@ Include:
 •	Shipping Cost by Region
 •	Quantity by Region
 
-
+ <a href ="https://github.com/karthickraja20092000-star/E-Commerce_Sales_-_Customer_Analytics/blob/main/Screenshot%20regional.png"> regional </a>
