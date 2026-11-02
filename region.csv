@@ -1,0 +1,14 @@
+Region_ID,Region,State,City
+R01,South,Tamil Nadu,Chennai
+R02,South,Karnataka,Bangalore
+R03,South,Telangana,Hyderabad
+R04,South,Kerala,Kochi
+R05,West,Maharashtra,Mumbai
+R06,West,Maharashtra,Pune
+R07,West,Gujarat,Ahmedabad
+R08,North,Delhi,New Delhi
+R09,North,Rajasthan,Jaipur
+R10,East,West Bengal,Kolkata
+R11,East,Odisha,Bhubaneswar
+R12,South,Tamil Nadu,Coimbatore
+R13,South,Tamil Nadu,Madurai
