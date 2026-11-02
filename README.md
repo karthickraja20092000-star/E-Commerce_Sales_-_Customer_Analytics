@@ -37,7 +37,7 @@ Map/bar chart
 Bar chart
 5. Top 10 Customers
 
-   dashboard <a href =""> executive_dashboard</a>
+   dashboard <a href ="E-Commerce_Sales_-_Customer_Analytics/blob/main/Screenshot-executive_dashboard.png"> executive_dashboard</a>
 ___________________________________
 Page 2 — Product Analysis
 Include:
