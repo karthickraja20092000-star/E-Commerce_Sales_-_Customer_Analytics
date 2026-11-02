@@ -59,6 +59,8 @@ Include:
 •	Average Order Value
 •	Orders per Customer
 •	Customer Sales Contribution
+
+  <a href ="https://github.com/karthickraja20092000-star/E-Commerce_Sales_-_Customer_Analytics/blob/main/Screenshot%20customer-analysis.png">customer_analysis</a>
 ________________________________________
 Page 4 — Regional Analysis
 Include:
